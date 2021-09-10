@@ -47,8 +47,8 @@ Je pense que l'étude que j'ai fait est suffisant pour réussir l'examen.
 Si vous désirez contribuer à ce répertoire et aider vos confrères à étudier pour l'examen professionnel, faitez un `fork` et ensuite un `Pull Request` avec vos modifications.
 ## TODO
 
-- [] Tranformer certaines images du document en text.
+- [ ] Tranformer certaines images du document en text.
   - Dû au droit d'auteur je ne peux pas distribuer les images du document préparatoire.
   Je vais donc convertir leurs contenu en text.
-- [] Créer une version Markdown.
-- [] Créer une version en anglais.
+- [ ] Créer une version Markdown.
+- [ ] Créer une version en anglais.
