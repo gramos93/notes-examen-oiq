@@ -4,6 +4,8 @@ Ce répertoire contient la base de donnée `Athens` avec mes notes d'étude pour
 Les notes suivent la structure du [document préparatoire](http://ing.oiq.qc.ca/files/matiere_integrale_preparation_examen.pdf) (en date du 1er juin 2021)
 ainsi que le format de l'examen, décrit [ici](http://oiq.qc.ca/fr/jeSuis/membre/sommaires/Pages/examen-professionnel.aspx).
 
+EDIT (28 sept. 2021) : J'ai réussi l'examen avec les notes 91%, 90% et 84%. Comme référence, la moyenne du groupe était de 84%, 84% et 78%.
+
 ## Logiciel `Athens`
 
 **Référence :**  https://github.com/athensresearch/athens
